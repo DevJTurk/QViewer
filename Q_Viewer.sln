@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q_Viewer", "Q_Viewer\Q_Viewer.csproj", "{FFB69082-055E-44BB-937B-9AEE766CDA2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFB69082-055E-44BB-937B-9AEE766CDA2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFB69082-055E-44BB-937B-9AEE766CDA2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFB69082-055E-44BB-937B-9AEE766CDA2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFB69082-055E-44BB-937B-9AEE766CDA2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C65EB58F-AE51-410B-B63F-B71D7E58272A}
+	EndGlobalSection
+EndGlobal
